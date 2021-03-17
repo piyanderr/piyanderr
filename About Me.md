@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... HTML, CSS, Laravel, PHP and bootstrap
 - 🌱 I’m currently learning ... and studying php because Im currently a college student
 - 💞️ I’m looking to collaborate on ... not yet but I can collaborate in with anything that scopes and strengthen my skills
-- 📫 How to reach me ... you can message me here. Thank you!
+- 📫 How to reach me ... you can message me here or if not, I provided an email on my profile. Thank you!
 
 april.aencinares@gmail.com
 
